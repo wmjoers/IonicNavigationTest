@@ -1,5 +1,6 @@
-# About
+# IonicNavigationTest
 
+## About
 This app shows a main page containing two tabs.
 Tab1 contains a button to navigate to another page and a button to show a modal that uses ion-nav to navigate to another page.
 
@@ -9,7 +10,7 @@ Navigation techniques used in this example
 * NavController (routs)
 * ModalController
 
-# Pages
+## Pages
 
 Pages under tabs are modules and can be reached using routing, pages under modal are just components.
 
