@@ -1,6 +1,4 @@
-# IonicNavigationTest
-
-## About
+# About
 This app shows a main page containing two tabs.
 Tab1 contains a button to navigate to another page and a button to show a modal that uses ion-nav to navigate to another page.
 
