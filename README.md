@@ -5,7 +5,7 @@ Tab1 contains a button to navigate to another page and a button to show a modal 
 Navigation techniques used in this example
 * ion-tabs
 * ion-nav
-* NavController (routs)
+* NavController (routing)
 * ModalController
 
 ## Pages
