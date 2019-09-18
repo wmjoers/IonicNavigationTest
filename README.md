@@ -12,11 +12,11 @@ Navigation techniques used in this example
 
 Pages under tabs are modules and can be reached using routing, pages under modal are just components.
 
-tabs
-tabs/tab1
-tabs/tab1/another
-tabs/tab2
-modal
-modal/modal-page1
-modal/modal-page2
+* tabs
+* tabs/tab1
+* tabs/tab1/another
+* tabs/tab2
+* modal
+* modal/modal-page1
+* modal/modal-page2
 
